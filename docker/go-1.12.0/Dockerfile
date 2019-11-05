@@ -3,7 +3,8 @@
 #
 # Released under the MIT license.
 
-FROM karalabe/xgo-base
+#FROM karalabe/xgo-base
+FROM xgo_ssl_updated
 
 MAINTAINER Péter Szilágyi <peterke@gmail.com>
 
